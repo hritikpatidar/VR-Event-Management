@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="EVENTMANAGEMENT.master.cs"
+    Inherits="EVENTMANAGEMENT" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>vr event management</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="IMAGES/mainlogo.jpg" rel="icon" type="image" />
+    <link rel="stylesheet" type="text/css" href="CSS/Home.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/services.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/works.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/Aboutus.css" />
+    <link rel="stylesheet" type="text/css" href="CSS/Contactus.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+        crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous" />
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+    <div class="bgimage">
+        <div class="header">
+            <div class="leftheader">
+                <img src="IMAGES/mainlogo.jpg" />
+            </div>
+            <div class="rightheader">
+                <ul>
+                    <li id="firstlist"><a href="Home.aspx">home</a></li>
+                    <li id="secondlist"><a href="services.aspx">services</a></li>
+                    <li><a href="Works.aspx">works</a></li>
+                    <li><a href="Aboutus.aspx">about us</a></li>
+                    <li><a href="Contactus.aspx">conact us</a></li>
+                </ul>
+            </div>
+        </div>
+          </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+       <div class="footer2">
+            <p>
+                © Copyright 2020 Design by VR tecnology
+            </p>
+        </div>
+        
+  
+</body>
+</html>

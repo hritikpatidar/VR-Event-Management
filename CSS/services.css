@@ -1,0 +1,314 @@
+﻿
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.servicebody
+{
+	width: 90%;
+	height: auto;
+	margin: auto;
+}
+.services
+{
+	width: 100%;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: center;
+	height: 30px;
+}
+.services H2
+{
+	font-weight: bold;
+	color: Navy;
+}
+.function
+{
+	width: 100%;
+	height: 300px;
+	margin-top: 40px;
+}
+.funtion1
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+}
+.funtion1 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion2
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+	margin-left: 5%;
+}
+.funtion2 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion3
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: right;
+}
+.funtion3 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion4
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+}
+.funtion4 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion5
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+	margin-left: 5%;
+}
+.funtion5 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion6
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: right;
+}
+.funtion6 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion7
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+}
+.funtion7 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion8
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+	margin-left: 5%;
+}
+.funtion8 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion9
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: right;
+}
+.funtion9 img
+{
+	width: 100%;
+	height: 260px;
+}
+.funtion10
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+}
+.funtion10 img
+{
+	width: 100%;
+	height: 260px;
+}
+
+.funtion11
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+	margin-left: 5%;
+}
+.funtion11 img
+{
+	width: 100%;
+	height: 260px;
+}
+
+.funtion12
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: right;
+}
+.funtion12 img
+{
+	width: 100%;
+	height: 260px;
+}
+
+.funtion13
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+}
+.funtion13 img
+{
+	width: 100%;
+	height: 260px;
+}
+
+.funtion14
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: left;
+	margin-left: 5%;
+}
+.funtion14 img
+{
+	width: 100%;
+	height: 260px;
+}
+
+.funtion15
+{
+	width: 30%;
+	height: 300px;
+	background-color: Black;
+	float: right;
+}
+.funtion15 img
+{
+	width: 100%;
+	height: 260px;
+}
+
+h5
+{
+	color: White;
+	text-align: center;
+	height: 40px;
+	padding-top: 7px;
+    font-weight:bold;
+	background-color: Red;
+	
+}
+
+
+/*wedding service coding */
+
+.wedding-service-body
+{
+	width: 100%;
+	height:auto;
+	background-color: white;
+}
+
+.wsheading
+{
+	width: 97%;
+	height: 50px;
+	background-color: #A9A9A9;
+	margin-left: 20px;
+	border: 2px solid white;
+}
+.wsheading h3
+{
+	color: White;
+	line-height: 40px;
+	text-align: center;
+	font-family: "Playfair Display" ,serif;
+	font-weight: bold;
+}
+.service-img
+{
+	width: 100%;
+	height: 500px;
+	background-color: Black;
+}
+.service-img img
+{
+	width: 95%;
+	height: 500px;
+	margin-left: 33px;
+}
+.logo-detail
+{
+	width: 95%;
+	height: 300px;
+	background-color: black;
+	margin-left: 33px;
+	margin-top: 20px;
+}
+.servise-logo
+{
+	width: 35%;
+	height: 300px;
+	background-color: pink;
+	float: left;
+}
+.servise-logo img
+{
+	width: 60%;
+	height: auto;
+	margin: 10px 0px 0px 75px;
+}
+
+.service-detail
+{
+	width: 55%;
+	height: auto;
+	background-color: black;
+	float: right;
+	padding:50px;
+}
+.service-detail h4
+{
+	color: #A9A9A9;
+}
+
+.service-detail p
+{
+	color: #A9A9A9;
+}
+
+
+/*media qurey*/
+

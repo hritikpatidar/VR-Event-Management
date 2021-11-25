@@ -1,0 +1,213 @@
+﻿*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.slide
+{
+	margin-top: 0px;
+	width: 100%;
+	height: 30PX;
+}
+
+.bgimage
+{
+	margin-top: 20px;
+	background-color: #FAEBD7;
+	height: auto;
+}
+.logo
+{
+	width: 100%;
+	height: 180px;
+}
+
+.header
+{
+	width: 100%;
+	height: 80px;
+	background-color: #080808;
+}
+.leftheader
+{
+	width: 30%;
+	height: 80px;
+	line-height: 60px;
+	float: left;
+}
+.leftheader img
+{
+	width: 100%;
+	height: 80px;
+}
+.leftheader h1
+{
+	padding-left: 120px;
+	font-weight: bold;
+	color: White;
+	font-size: 23px;
+	font-family: 'Montserrat' , Sans-Serif;
+	line-height: 60PX;
+}
+.rightheader
+{
+	width: 70%;
+	height: 80px;
+	float: right;
+}
+
+.rightheader ul
+{
+	line-height: 80px;
+	margin-left: 150px;
+}
+.rightheader ul li
+{
+	font-family: 'Montserrat' , Sans-Serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 15px;
+	color: White;
+	font-weight: bold;
+	line-height: 60px;
+	margin-left: 40px;
+	text-transform: uppercase;
+}
+.rightheader ul li a
+{
+    text-decoration:none;
+	color: White;
+}
+
+
+.rightheader ul li a:hover
+{
+	color: Yellow;
+}
+
+.rightfooter img
+{
+	margin-left: 60px;
+	width: 50px;
+	height: 50px;
+}
+#active
+{
+	background-color: #FF5C19;
+	color: #fff;
+}
+.carousel-inner
+{
+	margin-top: -20px;
+	width: 100%;
+	height: 550px;
+	display: inline-block;
+	float: right;
+}
+
+.footer2
+{
+	width: 100%;
+	height: 30px;
+	background-color: Black;
+	margin-top: 15px;
+}
+.footer2 p
+{
+	margin-left: 10px;
+	padding-top: 5px;
+	color: White;
+}
+.welcome
+{
+	width: 100%;
+	height: 150px;
+}
+.leftkabuter
+{
+	width: 25%;
+	height: 150px;
+	float: left;
+}
+.leftkabuter img
+{
+	margin-left: 50%;
+	height: 150px;
+}
+.hading
+{
+	width: 50%;
+	height: 150px;
+	float: left;
+}
+.hading h2
+{
+	text-align: center;
+	line-height: 70px;
+	font-family: 'Tangerine' , serif;
+	font-weight: bold;
+	font-size: 50px;
+}
+.rightkabuter
+{
+	width: 25%;
+	height: 150px;
+	float: right;
+}
+.rightkabuter img
+{
+	margin-left: 20%;
+	height: 150px;
+}
+.contan
+{
+	width: 100%;
+	height: 500px;
+}
+.contan img
+{
+	width: 40%;
+	height: 300px;
+	margin-left: 150px;
+	margin-top: 100px;
+}
+.leftcontan
+{
+	width: 40%;
+	height: auto;
+	float: left;
+}
+.leftcontan img
+{
+	border: 4px solid red;
+}
+
+.rightcontan
+{
+	width: 60%;
+	height: auto;
+	float: right;
+}
+.welcomeevent
+{
+	margin: 10px 20px;
+	height: 480px;
+}
+.welcomeevent h3
+{
+	text-align: center;
+	font-family: 'Tangerine' , serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+.welcomeevent p
+{
+	font-size: 18px;
+}
+
+
+/* media qurey*/
+
+
